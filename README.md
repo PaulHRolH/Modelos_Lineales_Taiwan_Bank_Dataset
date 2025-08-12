@@ -18,3 +18,4 @@
 - ast
 - sklearn
 - scipy
+- xgboost
